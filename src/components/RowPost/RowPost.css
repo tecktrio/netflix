@@ -14,3 +14,13 @@
     max-height: 250px;
     margin-right: 10px;
 }
+
+.title{
+    font-size: 20px;
+}
+
+
+.smallpost{
+    max-height: 150px;
+    margin-right:10px;
+}
